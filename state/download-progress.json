@@ -1,0 +1,17 @@
+{
+  "updated": "2026-10-24T20:57:10+0800",
+  "downloads": {
+    "ollama": {
+      "bytes": 1509264197,
+      "total": 1509264197,
+      "state": "verified",
+      "sha256": "1e8ad2d2a394efdd235bee74deec237badd95142ffba77588140ab2a9ecec227"
+    },
+    "deepseek": {
+      "bytes": 5225373760,
+      "total": 5225373760,
+      "state": "verified",
+      "sha256": "e6a7edc1a4d7d9b2de136a221a57336b76316cfe53a252aeba814496c5ae439d"
+    }
+  }
+}
